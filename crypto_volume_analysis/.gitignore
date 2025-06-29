@@ -1,0 +1,14 @@
+# API Keys
+config.py
+*.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints
+
+# System
+.DS_Store
+Thumbs.db
